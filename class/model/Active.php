@@ -1,5 +1,6 @@
 <?php
 /**
+ * 活动model
  * Created by PhpStorm.
  * User: pray
  * Date: 2019/7/9
